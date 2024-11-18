@@ -33,7 +33,9 @@ Developer Advocacy at public events
 
 `2021 - now`
 __Cisco Systems__, Lisbon
+
 Software Consulting Engineer - SAO (Software & Orchestration)
+
 
 Relevant projects:
 
@@ -48,6 +50,7 @@ _Impact:_ Reduced time for manual security policy configurations in a brownfield
 _Technologies used:_ Python, NETCONF and RESTCONF protocols, Robot Framework for testing, Jenkins for pipeline, Docker for staging environments, Redis and PostgreSQL databases, Github SCM.
 
 
+
 _2) Network services reconciliation platform_
 
 Built a CLI-based platform for reconciling network services (ACLs, BGP, VRFs) for a Service Provider. Automated comparison and enforcement of configuration deltas.
@@ -57,6 +60,7 @@ _Role:_ Developer Lead, overseeing testing and delivery.
 _Impact:_ Enabled quick, automated reconciliation during tight maintenance windows.
 
 _Technologies used:_ Python, requests module for API querying, NETCONF and RESTCONF protocols, Robot Framework for testing, Gitlab Runner for pipeline, Docker for staging environments, Gitlab SCM.
+
 
 
 _3) Network status dashboard on-the-go_
@@ -73,7 +77,9 @@ _Technologies used:_ Python, FastAPI, InfluxDB, Grafana, Docker, Docker-Compose,
 
 `2016 - 2021`
 __Cisco Systems__, Mexico City
+
 Collaboration Consulting Engineer - VoIP and Video
+
 
 Relevant projects:
 
