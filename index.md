@@ -28,18 +28,6 @@ Developer Advocacy in public events
 
 
 
-### Spoken languages (CEFR scale)
-
-**Spanish.** Native
-
-**English.** C2 Proficiency on all skills
-
-**Portuguese.** C1 Proficiency on all skills
-
-**French.** B2 Proficiency on all skills
-
-
-
 
 ## Professional experience
 
@@ -90,7 +78,20 @@ ERASMUS.
 
 
 
-## Computing
+## Skills
+
+### Spoken languages (CEFR scale)
+
+**Spanish.** Native
+
+**English.** C2 Proficiency on all skills
+
+**Portuguese.** C1 Proficiency on all skills
+
+**French.** B2 Proficiency on all skills
+
+
+### Computing
 
 Network Automation and Orchestration - NETCONF, RESTCONF protocols. YANG modelling language
 
@@ -110,6 +111,14 @@ Web development - MEAN stack
 
 Data visualization - TIG stack
 
+
+### Certifications
+
+Cisco Certified DevNet Specialist - DevOps
+
+AWS Certified Cloud Practicioner
+
+ITIL4 Foundation CPD
 
 
 
