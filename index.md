@@ -14,17 +14,17 @@ B.Sc.Eng. Telematics. Network Automation and Orchestration. DevOps. Public Speak
 
 ### Experienced in
 
-Automated provisioning/orchestration/reconciliation of networking services
+Automated provisioning, orchestration, and reconciliation of networking services
 
 DevOps & NetDevOps design and tooling
 
 Software development lifecycle with Agile methodologies
 
-Software projects leadership, performing requirements gathering, systems design, code reviews, quality coding enforcement, SCM management
+Leadership in software projects: requirements gathering, systems design, code reviews, quality enforcement, and SCM management
 
-Technical Presentation for customer & academic contexts
+Technical presentations for customer and academic contexts
 
-Developer Advocacy in public events
+Developer Advocacy at public events
 
 
 
@@ -39,21 +39,33 @@ Relevant projects:
 
 _1) Firewall-Automation-as-a-Service platform_
 
-Creation of a full-stack platform for the automated provisioning of security policies in the customer's Data Center. The firewalls within were from multiple vendors (Fortinet, Juniper, PaloAlto, Cisco). I fulfilled the role of Developer Lead for the southbound interface (devices configurations check, commit and rollback), including setup of development environment, DevOps pipeline for automated testing and artefact generation, code reviews, PR managing, pair troubleshooting and Day2 support. Our customer was able to drastically reduce the time for manual configuration of security policies in their brownfield network, as well as to mitigate human errors and discrepancies; everything while performing persona-based, end-to-end management of the requests. 
+Developed a full-stack platform for the automated provisioning of security policies in a customer’s Data Center. Supported firewalls from multiple vendors (Fortinet, Juniper, Palo Alto, Cisco).
+
+_Role:_ Developer Lead for the southbound interface, focusing on device configuration checks, commit/rollback, development environment setup, and DevOps pipeline. Tasks included code reviews, pull request management, pair troubleshooting, and Day 2 support.
+
+_Impact:_ Reduced time for manual security policy configurations in a brownfield network, minimizing human error while enabling persona-based, end-to-end management.
 
 _Technologies used:_ Python, NETCONF and RESTCONF protocols, Robot Framework for testing, Jenkins for pipeline, Docker for staging environments, Redis and PostgreSQL databases, Github SCM.
 
 
 _2) Network services reconciliation platform_
 
-Creation of a CLI-based platform for the reconciliation of network services (ACLs, BGP, VRFs, etc) for a Service Provider. The platform would query the desired state configurations from an API and calculate the configuration deltas for each of the network routers involved. The user could determine wether to enforce the reconciliation of these deltas or not. I fulfilled the role of Developer Lead for the integral testing and delivery of this solution. Our customer was able to perform the reconciliation process in a quick and automated manner, complying with a tight schedule of maintenance windows for their production network.
+Built a CLI-based platform for reconciling network services (ACLs, BGP, VRFs) for a Service Provider. Automated comparison and enforcement of configuration deltas.
+
+_Role:_ Developer Lead, overseeing testing and delivery.
+
+_Impact:_ Enabled quick, automated reconciliation during tight maintenance windows.
 
 _Technologies used:_ Python, requests module for API querying, NETCONF and RESTCONF protocols, Robot Framework for testing, Gitlab Runner for pipeline, Docker for staging environments, Gitlab SCM.
 
 
 _3) Network status dashboard on-the-go_
 
-Creation of a multi-container application for visualization of network devices status - Memory usage, vendor information, software version, historical benchmarks on specific features. The information is queried via a Cisco RADKit agent integrated into a web server container. This container pushes historical data into a database one. Finally, a visualisation container queries both containers for the population of charts and graphs. I fulfilled the role of solo Developer of this application, working side by side with a Network Engineer to fulfill all the visualisation and query needs for multiple customers. Several customers are using this solution and adapting it to their needs.
+Created a multi-container application to visualize network device status (e.g., memory usage, software versions, historical benchmarks).
+
+_Role:_ Solo Developer, collaborating with a Network Engineer to meet visualization needs.
+
+_Impact:_ Widely adopted by multiple customers for enhanced network monitoring.
 
 _Technologies used:_ Python, FastAPI, InfluxDB, Grafana, Docker, Docker-Compose, Cisco RADKit, Gitlab SCM.
 
@@ -67,14 +79,22 @@ Relevant projects:
 
 _1) Contact Center Conversational Experiences integration framework_
 
-Creation of a middleware server for the integration of Cisco Contact Center workflows with Google DialogFlow conversational agents. The developer would be able to code small plugins in NodeJS to incorporate into this middleware. These plugins would allow the querying of existing Google DialogFlow agents using the pre-trained conversations and available locales for voice. The calling user would be able to interact with their voice during the call. I fulfilled the role of Developer Lead for the design and implementation of the middleware, as well as the training of the Google DialogFlow agents and Cisco Contact Center workflow design. Our customer bosted the productivity of their contact center by applying this solution on specific Use Cases which could be easily addressed with serf-service, releasing human agents for more critical calls.
+Developed a middleware server to integrate Cisco Contact Center workflows with Google DialogFlow conversational agents.
+
+_Role:_ Developer Lead, responsible for middleware design and conversational agent training.
+
+_Impact:_ Boosted contact center productivity by enabling self-service for specific use cases.
 
 _Technologies used:_ NodeJS, Cisco Contact Center Express, Google DialogFlow ES
 
 
 _2) Contact Center Multi-Channel Dunning platform_
 
-Creation of a contact center agent portal for the dunning of customers through different integrated channels. The agent would be able to send alerts to a specific user via SMS texts, email and robo-calls. Additionally, the administrator would be able to setup policies and templates for these messages to be triggered under specific criteria (Ex. client in debt template email after X amount of days with a payment overdue). I fulfilled the role of solo developer for the design and implementation of the solution, working side by side with a Contact Center engineer to create the integration of both systems. Our customer was able to release their agents from these tasks so they could focus on more critical activities.
+Built a portal for contact center agents to manage customer notifications across SMS, email, and robo-calls. Included policy and template management for automated triggers.
+
+_Role:_ Solo Developer, collaborating with a Contact Center Engineer for system integration.
+
+_Impact:_ Streamlined dunning processes, freeing agents for higher-priority tasks.
 
 _Technologies used:_ NodeJS, Cisco Contact Center Express
 
