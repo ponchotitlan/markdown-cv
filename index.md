@@ -69,6 +69,8 @@ Relevant projects:
 __Instituto Politécnico Nacional, Mexico__
 B.Sc.Eng. Telematics.
 
+Thesis project: ["Videoconference System Based on WebRTC With Access to the PSTN (ES)"](https://www.slideshare.net/slideshow/sistema-de-videoconferencia-basado-en-webrtc-con-acceso-a-la-pstn-56562444/56562444)
+
 `2014`
 __Universidad Politécnica de Madrid, Spain__
 ERASMUS.
@@ -98,61 +100,51 @@ Data visualization - TIG stack
 
 
 
-## Engagement in Technical Events
+## Speaker sessions in Technical Events
 
-**[WITCOM 2024 - Puerto Vallarta (ES-MX)](https://github.com/ponchotitlan/witcom-2024-code-is-the-new-cli)**:
+**[WITCOM 2024 - Puerto Vallarta (ES)](https://github.com/ponchotitlan/witcom-2024-code-is-the-new-cli)**:
 
-_"Code is the new CLI. Network Programmability and beyond"_
+"Code is the new CLI. Network Programmability and beyond"
 
 
 **[Open Source Summit Europe 2024](https://www.youtube.com/watch?v=qcl2sYVTo8M&list=PLbzoR-pLrL6rC7SpO7MJCZm22Qp5ns3p-&index=49&ab_channel=TheLinuxFoundation)**: 
 
-_"Data Networks Neutrality with OpenConfig: Unveiling Challenges and Practical Insights"_
+"Data Networks Neutrality with OpenConfig: Unveiling Challenges and Practical Insights"
 
 
 **[DevOps Pro Europe 2024](https://devopspro.lt/devops-pro-europe-2024/)**:
 
-_"Taming your Data Networks with the power of NetDevOps"_
+"Taming your Data Networks with the power of NetDevOps"
 
 
 **[Cisco Live Amsterdam 2024](https://www.ciscolive.com/on-demand/on-demand-library.html?search=%22Alfonso%20Sandoval%20Rosas%22#/session/1707505612413001pTAA)**:
 
-_"Embracing DevOps for my NSO Use Cases lifecycle - DEVNET-2224"_
+"Embracing DevOps for my NSO Use Cases lifecycle"
 
 
 **[Developer Days Automation 2023](https://www.youtube.com/watch?v=nnjzu57vI3g&t=634s&ab_channel=CiscoNSODeveloperHub)**:
 
-_"The quest for DevOps utopia in NSO Land - Tips & tricks for the ideal strategy"_
-
-
-**[Cisco Live Amsterdam 2023](https://www.ciscolive.com/on-demand/on-demand-library.html?search=alfonso#/session/1675722413868001tRad)**:
-
-_"Testing and Deployment of NSO Use Cases with a CI/CD State of Mind – DEVNET-2535"_
-
-
-**[WITCOM Workshop in Telematics and Computing 2022 (ES-MX)](https://www.facebook.com/WITCOMConferences/videos/486035753588634)**:
-
-_"De NetDevOps y otros romances: Automatizando las redes de datos con el poder del coding"_
+"The quest for DevOps utopia in NSO Land - Tips & tricks for the ideal strategy"
 
 
 **[Cisco Live Las Vegas 2022](https://www.ciscolive.com/on-demand/on-demand-library.html?search=alfonso#/session/1675722411262001tQK7)**:
 
-_"“Hello! How can I help you today?” Conversational Experiences in our Contact Center with Google DialogFlow and the Power of Code – DEVNET-2222"_
+"“Hello! How can I help you today?” Conversational Experiences in our Contact Center with Google DialogFlow and the Power of Code"
 
 
 **[Developer Days Automation 2022](https://www.youtube.com/watch?v=0bWm1q6V0qM&ab_channel=CiscoNSODeveloperHub)**:
 
-_"Enhanced Compliance Reporting: A development journey"_
+"Enhanced Compliance Reporting: A development journey"
 
 
-**[Cisco Community Talks (ES-MX)](https://community.cisco.com/t5/eventos-general/devnet-en-acci%C3%B3n-tips-temas-claves-y-mejores-pr%C3%A1cticas-cl-evento/ba-p/4310121?utm_campaign=cl-sp-devent-comienzo-mar2021&utm_medium=referral&utm_source=sm)**:
+**[Cisco Community Talks (ES)](https://community.cisco.com/t5/eventos-general/devnet-en-acci%C3%B3n-tips-temas-claves-y-mejores-pr%C3%A1cticas-cl-evento/ba-p/4310121?utm_campaign=cl-sp-devent-comienzo-mar2021&utm_medium=referral&utm_source=sm)**:
 
-_"DevNet en acción: Tips, temas claves y mejores prácticas - CL evento"_
+"DevNet en acción: Tips, temas claves y mejores prácticas"
 
 
-[Cisco DevNet Create 2020](https://www.youtube.com/watch?v=zHOUyR3kKrE&ab_channel=CiscoDevNet)**:
+**[Cisco DevNet Create 2020](https://www.youtube.com/watch?v=zHOUyR3kKrE&ab_channel=CiscoDevNet)**:
 
-_"Cisco Multi-Channel Campaign Manager: Innovating Our Customer Contact for Potential Markets"_
+"Cisco Multi-Channel Campaign Manager: Innovating Our Customer Contact for Potential Markets"
 
 
 
@@ -161,12 +153,18 @@ _"Cisco Multi-Channel Campaign Manager: Innovating Our Customer Contact for Pote
 
 **[NOVA Universidade de Lisboa - Faculdade de Engenharia (PT)](https://github.com/ponchotitlan/NOVA_code_is_the_new_CLI):** 
 
-"Code is the new CLI" masterclass for the students of Computer Science & Telecom degree
+"Code is the new CLI" masterclass for the students of Computer Science & Telecom degrees
 
 
 **[IST - Instituto Técnico Superior de Lisboa (PT)](https://github.com/ponchotitlan/NOVA_code_is_the_new_CLI):** 
 
-"Code is the new CLI" masterclass for the students of Computer Science degree
+"Code is the new CLI" masterclass for the students of Computer Science & Telecom degrees
+
+
+**DevNet Programming Club (Admin, Mentor and Trainer)**
+
+The DevNet Programming Club was a initiative with the purpose of empowering the community to bring their digital ideas to life with the power of code. The Club delivered well-defined live sessions on specific coding topics, as well as close mentoring and an open space for support on coding-related questions
+
 
 
 
@@ -174,7 +172,7 @@ _"Cisco Multi-Channel Campaign Manager: Innovating Our Customer Contact for Pote
 
 **[Electronic Notes in Theoretical Computer Science](https://www.sciencedirect.com/science/article/pii/S1571066116301141):**
 
-_"Videoconference System Based on WebRTC With Access to the PSTN"_
+"Videoconference System Based on WebRTC With Access to the PSTN"
 
 
 
