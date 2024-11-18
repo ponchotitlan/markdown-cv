@@ -28,6 +28,19 @@ Developer Advocacy in public events
 
 
 
+### Spoken languages (CEFR scale)
+
+**Spanish.** Native
+
+**English.** C2 Proficiency on all skills
+
+**Portuguese.** C1 Proficiency on all skills
+
+**French.** B2 Proficiency on all skills
+
+
+
+
 ## Professional experience
 
 `2021 - now`
