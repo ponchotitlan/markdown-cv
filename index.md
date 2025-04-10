@@ -3,7 +3,7 @@ layout: cv
 title: Alfonso Sandoval Rosas
 ---
 # Alfonso Sandoval Rosas
-B.Sc.Eng. Telematics. Network Automation and Orchestration. DevOps. Public Speaking. Developer Advocacy.
+B.Sc.Eng. Telematics. Network Automation and Orchestration. DevOps. Technical Public Speaking.
 
 <div id="webaddress">
 <a href="asandovalros@gmail.com">My email</a>
@@ -34,22 +34,22 @@ Developer Advocacy at public events
 `2021 - now`
 __Cisco Systems__, Lisbon
 
-Software Consulting Engineer - SAO (Software & Orchestration)
+**Senior Software Consulting Engineer - SAO (Software & Orchestration)**
 
 
 Relevant projects:
 
 _1) Firewall-Automation-as-a-Service platform_
 
-Developed a full-stack platform for the automated provisioning of security policies in a customer’s Data Center. Supported firewalls from multiple vendors (Fortinet, Juniper, Palo Alto, Cisco).
+Developed a full-stack platform for the automated provisioning of security policies in a customer’s Data Center
 
-_Role:_ Developer Lead for the southbound interface, focusing on device configuration checks, commit/rollback, development environment setup, and DevOps pipeline. Tasks included code reviews, pull request management, pair troubleshooting, and Day 2 support.
+_Role:_ Developer Lead focusing on device configuration checks, commit/rollback, development environment setup, and DevOps pipeline. Tasks included code reviews, pull request management, pair troubleshooting, and Day 2 support.
 
 _Impact:_ Reduced time for manual security policy configurations in a brownfield network, minimizing human error while enabling persona-based, end-to-end management.
 
 _Technologies used:_ Python, NETCONF and RESTCONF protocols, Robot Framework for testing, Jenkins for pipeline, Docker for staging environments, Redis and PostgreSQL databases, Github SCM.
 
-
+<br/><br/>
 
 _2) Network services reconciliation platform_
 
@@ -61,7 +61,7 @@ _Impact:_ Enabled quick, automated reconciliation during tight maintenance windo
 
 _Technologies used:_ Python, requests module for API querying, NETCONF and RESTCONF protocols, Robot Framework for testing, Gitlab Runner for pipeline, Docker for staging environments, Gitlab SCM.
 
-
+<br/><br/>
 
 _3) Network status dashboard on-the-go_
 
@@ -73,12 +73,12 @@ _Impact:_ Widely adopted by multiple customers for enhanced network monitoring.
 
 _Technologies used:_ Python, FastAPI, InfluxDB, Grafana, Docker, Docker-Compose, Cisco RADKit, Gitlab SCM.
 
-
+<br/><br/><br/><br/>
 
 `2016 - 2021`
 __Cisco Systems__, Mexico City
 
-Collaboration Consulting Engineer - VoIP and Video
+**Collaboration Consulting Engineer - VoIP and Video**
 
 
 Relevant projects:
@@ -92,7 +92,7 @@ _Role:_ Developer Lead, responsible for middleware design and conversational age
 _Impact:_ Boosted contact center productivity by enabling self-service for specific use cases.
 
 _Technologies used:_ NodeJS, Cisco Contact Center Express, Google DialogFlow ES
-
+<br/><br/>
 
 _2) Contact Center Multi-Channel Dunning platform_
 
@@ -104,7 +104,7 @@ _Impact:_ Streamlined dunning processes, freeing agents for higher-priority task
 
 _Technologies used:_ NodeJS, Cisco Contact Center Express
 
-
+<br/><br/>
 
 ## Education
 
