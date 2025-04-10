@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9c83c055-fe84-4b90-96a3-4a0bff7d0c7d)---
+---
 layout: cv
 title: Alfonso Sandoval Rosas
 ---
