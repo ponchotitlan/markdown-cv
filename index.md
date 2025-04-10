@@ -178,7 +178,6 @@ ITIL4 Foundation CPD
 **[DevOps Pro Europe 2024](https://devopspro.lt/devops-pro-europe-2024/)**:
 
 "Taming your Data Networks with the power of NetDevOps" - [Repository available](https://gitlab.com/ponchotitlan/netdevops-nso-demo)
-)
 <br/>
 
 ### Cisco events
