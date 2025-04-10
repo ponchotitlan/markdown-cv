@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/9c83c055-fe84-4b90-96a3-4a0bff7d0c7d)---
 layout: cv
 title: Alfonso Sandoval Rosas
 ---
@@ -167,33 +167,34 @@ ITIL4 Foundation CPD
 ### 3rd-party events
 **[WITCOM 2024 (ES)](https://github.com/ponchotitlan/witcom-2024-code-is-the-new-cli)**:
 
-"Code is the new CLI. Network Programmability and beyond"
+"Code is the new CLI. Network Programmability and beyond" - [Repository available](https://github.com/ponchotitlan/witcom-2024-code-is-the-new-cli)
 <br/>
 
 **[Open Source Summit Europe 2024](https://www.youtube.com/watch?v=qcl2sYVTo8M&list=PLbzoR-pLrL6rC7SpO7MJCZm22Qp5ns3p-&index=49&ab_channel=TheLinuxFoundation)**: 
 
-"Data Networks Neutrality with OpenConfig: Unveiling Challenges and Practical Insights"
+"Data Networks Neutrality with OpenConfig: Unveiling Challenges and Practical Insights" - [Repository available](https://github.com/ponchotitlan/oss-summit-OpenConfig-demo)
 <br/>
 
 **[DevOps Pro Europe 2024](https://devopspro.lt/devops-pro-europe-2024/)**:
 
-"Taming your Data Networks with the power of NetDevOps"
+"Taming your Data Networks with the power of NetDevOps" - [Repository available](https://gitlab.com/ponchotitlan/netdevops-nso-demo)
+)
 <br/>
 
 ### Cisco events
 **[Cisco Live Amsterdam 2025](https://www.ciscolive.com/on-demand/on-demand-library.html?search=alfonso#/session/1740098400341001deHy)**:
 
-"Mastering Test Automation Bliss with Robot Framework"
+"Mastering Test Automation Bliss with Robot Framework" - [Repository available](https://github.com/ponchotitlan/CISCOU-1033_robot-test-auto)
 <br/>
 
 **[Cisco Live Amsterdam 2025](https://www.ciscolive.com/on-demand/on-demand-library.html?search=alfonso#/session/1740098441051001dhRt)**:
 
-"Embracing DevOps for my NSO Use Cases lifecycle"
+"Embracing DevOps for my NSO Use Cases lifecycle" - [Repository available](https://github.com/ponchotitlan/embracing-devops-nso-usecase-lifecycle)
 <br/>
 
 **[Cisco Live Amsterdam 2024](https://www.ciscolive.com/on-demand/on-demand-library.html?search=%22Alfonso%20Sandoval%20Rosas%22#/session/1707505612413001pTAA)**:
 
-"Embracing DevOps for my NSO Use Cases lifecycle"
+"Embracing DevOps for my NSO Use Cases lifecycle"  - [Repository available](https://github.com/ponchotitlan/NSO-DevOps-in-a-tin-can)
 <br/>
 
 **[Developer Days Automation 2023](https://www.youtube.com/watch?v=nnjzu57vI3g&t=634s&ab_channel=CiscoNSODeveloperHub)**:
@@ -203,7 +204,7 @@ ITIL4 Foundation CPD
 
 **[Cisco Live Las Vegas 2022](https://www.ciscolive.com/on-demand/on-demand-library.html?search=alfonso#/session/1675722411262001tQK7)**:
 
-"“Hello! How can I help you today?” Conversational Experiences in our Contact Center with Google DialogFlow and the Power of Code"
+"“Hello! How can I help you today?” Conversational Experiences in our Contact Center with Google DialogFlow and the Power of Code"  - [Repository available](https://github.com/ponchotitlan/ciscoCVP_googleDialogflow_dance)
 <br/>
 
 **[Developer Days Automation 2022](https://www.youtube.com/watch?v=0bWm1q6V0qM&ab_channel=CiscoNSODeveloperHub)**:
