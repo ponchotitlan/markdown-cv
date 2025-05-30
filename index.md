@@ -42,7 +42,7 @@ Relevant projects:
 _1) Firewall-Automation-as-a-Service platform_
 
 Developed a full-stack platform for the automated provisioning of security policies in a customer’s Data Center
-<br/>
+<br/><br/>
 
 _Role:_ Developer Lead focusing on device configuration checks, commit/rollback, development environment setup, and DevOps pipeline. Tasks included code reviews, pull request management, pair troubleshooting, and Day 2 support.
 
@@ -55,7 +55,7 @@ _Technologies used:_ Python, NETCONF and RESTCONF protocols, Robot Framework for
 _2) Network services reconciliation platform_
 
 Built a CLI-based platform for reconciling network services (ACLs, BGP, VRFs) for a Service Provider. Automated comparison and enforcement of configuration deltas.
-<br/>
+<br/><br/>
 
 _Role:_ Developer Lead, overseeing testing and delivery.
 
@@ -68,7 +68,7 @@ _Technologies used:_ Python, requests module for API querying, NETCONF and RESTC
 _3) Network status dashboard on-the-go_
 
 Created a multi-container application to visualize network device status (e.g., memory usage, software versions, historical benchmarks).
-<br/>
+<br/><br/>
 
 _Role:_ Solo Developer, collaborating with a Network Engineer to meet visualization needs.
 
@@ -89,7 +89,7 @@ Relevant projects:
 _1) Contact Center Conversational Experiences integration framework_
 
 Developed a middleware server to integrate Cisco Contact Center workflows with Google DialogFlow conversational agents.
-<br/>
+<br/><br/>
 
 _Role:_ Developer Lead, responsible for middleware design and conversational agent training.
 
@@ -101,7 +101,7 @@ _Technologies used:_ NodeJS, Cisco Contact Center Express, Google DialogFlow ES
 _2) Contact Center Multi-Channel Dunning platform_
 
 Built a portal for contact center agents to manage customer notifications across SMS, email, and robo-calls. Included policy and template management for automated triggers.
-<br/>
+<br/><br/>
 
 _Role:_ Solo Developer, collaborating with a Contact Center Engineer for system integration.
 
@@ -172,38 +172,38 @@ ITIL4 Foundation CPD
 ### 3rd-party events
 **[DevOpsPro Europe 2025](https://devopspro.lt/)**
 
-"Taming your Data Networks with the Power of NetDevOps" - [Repository available](https://github.com/ponchotitlan/devopsproeu-netdevops-demo)
+"Taming your Data Networks with the Power of NetDevOps" - [Click to open the repository](https://github.com/ponchotitlan/devopsproeu-netdevops-demo)
 <br/>
 
 **[WITCOM 2024 (ES)](https://github.com/ponchotitlan/witcom-2024-code-is-the-new-cli)**
 
-"Code is the new CLI. Network Programmability and beyond" - [Repository available](https://github.com/ponchotitlan/witcom-2024-code-is-the-new-cli)
+"Code is the new CLI. Network Programmability and beyond" - [Click to open the repository](https://github.com/ponchotitlan/witcom-2024-code-is-the-new-cli)
 <br/>
 
 **[Open Source Summit Europe 2024](https://www.youtube.com/watch?v=qcl2sYVTo8M&list=PLbzoR-pLrL6rC7SpO7MJCZm22Qp5ns3p-&index=49&ab_channel=TheLinuxFoundation)**
 
-"Data Networks Neutrality with OpenConfig: Unveiling Challenges and Practical Insights" - [Repository available](https://github.com/ponchotitlan/oss-summit-OpenConfig-demo)
+"Data Networks Neutrality with OpenConfig: Unveiling Challenges and Practical Insights" - [Click to open the repository](https://github.com/ponchotitlan/oss-summit-OpenConfig-demo)
 <br/>
 
 **[DevOps Pro Europe 2024](https://devopspro.lt/devops-pro-europe-2024/)**
 
-"Taming your Data Networks with the power of NetDevOps" - [Repository available](https://gitlab.com/ponchotitlan/netdevops-nso-demo)
+"Taming your Data Networks with the power of NetDevOps" - [Click to open the repository](https://gitlab.com/ponchotitlan/netdevops-nso-demo)
 <br/>
 
 ### Cisco events
 **[Cisco Live Amsterdam 2025](https://www.ciscolive.com/on-demand/on-demand-library.html?search=alfonso#/session/1740098400341001deHy)**
 
-"Mastering Test Automation Bliss with Robot Framework" - [Repository available](https://github.com/ponchotitlan/CISCOU-1033_robot-test-auto)
+"Mastering Test Automation Bliss with Robot Framework" - [Click to open the repository](https://github.com/ponchotitlan/CISCOU-1033_robot-test-auto)
 <br/>
 
 **[Cisco Live Amsterdam 2025](https://www.ciscolive.com/on-demand/on-demand-library.html?search=alfonso#/session/1740098441051001dhRt)**
 
-"Embracing DevOps for my NSO Use Cases lifecycle" - [Repository available](https://github.com/ponchotitlan/embracing-devops-nso-usecase-lifecycle)
+"Embracing DevOps for my NSO Use Cases lifecycle" - [Click to open the repository](https://github.com/ponchotitlan/embracing-devops-nso-usecase-lifecycle)
 <br/>
 
 **[Cisco Live Amsterdam 2024](https://www.ciscolive.com/on-demand/on-demand-library.html?search=%22Alfonso%20Sandoval%20Rosas%22#/session/1707505612413001pTAA)**
 
-"Embracing DevOps for my NSO Use Cases lifecycle"  - [Repository available](https://github.com/ponchotitlan/NSO-DevOps-in-a-tin-can)
+"Embracing DevOps for my NSO Use Cases lifecycle"  - [Click to open the repository](https://github.com/ponchotitlan/NSO-DevOps-in-a-tin-can)
 <br/>
 
 **[Developer Days Automation 2023](https://www.youtube.com/watch?v=nnjzu57vI3g&t=634s&ab_channel=CiscoNSODeveloperHub)**
@@ -213,7 +213,7 @@ ITIL4 Foundation CPD
 
 **[Cisco Live Las Vegas 2022](https://www.ciscolive.com/on-demand/on-demand-library.html?search=alfonso#/session/1675722411262001tQK7)**
 
-"“Hello! How can I help you today?” Conversational Experiences in our Contact Center with Google DialogFlow and the Power of Code"  - [Repository available](https://github.com/ponchotitlan/ciscoCVP_googleDialogflow_dance)
+"“Hello! How can I help you today?” Conversational Experiences in our Contact Center with Google DialogFlow and the Power of Code"  - [Click to open the repository](https://github.com/ponchotitlan/ciscoCVP_googleDialogflow_dance)
 <br/>
 
 **[Developer Days Automation 2022](https://www.youtube.com/watch?v=0bWm1q6V0qM&ab_channel=CiscoNSODeveloperHub)**
