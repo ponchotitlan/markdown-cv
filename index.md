@@ -3,11 +3,11 @@ layout: cv
 title: Alfonso Sandoval Rosas
 ---
 # Alfonso Sandoval Rosas
-B.Sc.Eng. Telematics. Network Automation and Orchestration. DevOps. Technical Public Speaking.
+Technical Public Speaking. Network Automation and Orchestration. DevOps.
 
 <div id="webaddress">
 <a href="asandovalros@gmail.com">My email</a>
-| <a href="https://github.com/ponchotitlan">My Github</a>
+| <a href="https://github.com/ponchotitlan">My GitHub</a>
 | <a href="https://www.linkedin.com/in/asandovalros/">My LinkedIn</a>
 </div>
 
@@ -42,6 +42,7 @@ Relevant projects:
 _1) Firewall-Automation-as-a-Service platform_
 
 Developed a full-stack platform for the automated provisioning of security policies in a customer’s Data Center
+<br/>
 
 _Role:_ Developer Lead focusing on device configuration checks, commit/rollback, development environment setup, and DevOps pipeline. Tasks included code reviews, pull request management, pair troubleshooting, and Day 2 support.
 
@@ -54,6 +55,7 @@ _Technologies used:_ Python, NETCONF and RESTCONF protocols, Robot Framework for
 _2) Network services reconciliation platform_
 
 Built a CLI-based platform for reconciling network services (ACLs, BGP, VRFs) for a Service Provider. Automated comparison and enforcement of configuration deltas.
+<br/>
 
 _Role:_ Developer Lead, overseeing testing and delivery.
 
@@ -66,6 +68,7 @@ _Technologies used:_ Python, requests module for API querying, NETCONF and RESTC
 _3) Network status dashboard on-the-go_
 
 Created a multi-container application to visualize network device status (e.g., memory usage, software versions, historical benchmarks).
+<br/>
 
 _Role:_ Solo Developer, collaborating with a Network Engineer to meet visualization needs.
 
@@ -86,6 +89,7 @@ Relevant projects:
 _1) Contact Center Conversational Experiences integration framework_
 
 Developed a middleware server to integrate Cisco Contact Center workflows with Google DialogFlow conversational agents.
+<br/>
 
 _Role:_ Developer Lead, responsible for middleware design and conversational agent training.
 
@@ -97,6 +101,7 @@ _Technologies used:_ NodeJS, Cisco Contact Center Express, Google DialogFlow ES
 _2) Contact Center Multi-Channel Dunning platform_
 
 Built a portal for contact center agents to manage customer notifications across SMS, email, and robo-calls. Included policy and template management for automated triggers.
+<br/>
 
 _Role:_ Solo Developer, collaborating with a Contact Center Engineer for system integration.
 
