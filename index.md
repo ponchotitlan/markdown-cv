@@ -117,7 +117,7 @@ _Technologies used:_ NodeJS, Cisco Contact Center Express
 __Instituto Politécnico Nacional, Mexico__
 B.Sc.Eng. Telematics.
 
-Thesis project: ["Videoconference System Based on WebRTC With Access to the PSTN (ES)"](https://www.slideshare.net/slideshow/sistema-de-videoconferencia-basado-en-webrtc-con-acceso-a-la-pstn-56562444/56562444)
+Thesis project: ["Videoconference System Based on WebRTC With Access to the PSTN (ES) ↗"](https://www.slideshare.net/slideshow/sistema-de-videoconferencia-basado-en-webrtc-con-acceso-a-la-pstn-56562444/56562444)
 
 `2014`
 __Universidad Politécnica de Madrid, Spain__
@@ -170,65 +170,55 @@ ITIL4 Foundation CPD
 
 ## Public Speaking
 ### 3rd-party events
-**[DevOpsPro Europe 2025](https://devopspro.lt/)**
+**DevOpsPro Europe 2025**
 
-"Taming your Data Networks with the Power of NetDevOps" - [Click to open the repository](https://github.com/ponchotitlan/devopsproeu-netdevops-demo)
+"Taming your Data Networks with the Power of NetDevOps" - [**Open repository ↗**](https://github.com/ponchotitlan/devopsproeu-netdevops-demo)
 <br/>
 
-**[WITCOM 2024 (ES)](https://github.com/ponchotitlan/witcom-2024-code-is-the-new-cli)**
+**WITCOM 2024 (ES)**
 
-"Code is the new CLI. Network Programmability and beyond" - [Click to open the repository](https://github.com/ponchotitlan/witcom-2024-code-is-the-new-cli)
+"Code is the new CLI. Network Programmability and beyond" - [**Open repository ↗**](https://github.com/ponchotitlan/witcom-2024-code-is-the-new-cli)
 <br/>
 
-**[Open Source Summit Europe 2024](https://www.youtube.com/watch?v=qcl2sYVTo8M&list=PLbzoR-pLrL6rC7SpO7MJCZm22Qp5ns3p-&index=49&ab_channel=TheLinuxFoundation)**
+**Open Source Summit Europe 2024**
 
-"Data Networks Neutrality with OpenConfig: Unveiling Challenges and Practical Insights" - [Click to open the repository](https://github.com/ponchotitlan/oss-summit-OpenConfig-demo)
-<br/>
-
-**[DevOps Pro Europe 2024](https://devopspro.lt/devops-pro-europe-2024/)**
-
-"Taming your Data Networks with the power of NetDevOps" - [Click to open the repository](https://gitlab.com/ponchotitlan/netdevops-nso-demo)
+"Data Networks Neutrality with OpenConfig: Unveiling Challenges and Practical Insights" - [**Open repository ↗**](https://github.com/ponchotitlan/oss-summit-OpenConfig-demo) | [**Open recording ↗**](https://www.youtube.com/watch?v=qcl2sYVTo8M&list=PLbzoR-pLrL6rC7SpO7MJCZm22Qp5ns3p-&index=49&ab_channel=TheLinuxFoundation)
 <br/>
 
 ### Cisco events
-**[Cisco Live Amsterdam 2025](https://www.ciscolive.com/on-demand/on-demand-library.html?search=alfonso#/session/1740098400341001deHy)**
+**Cisco Live Amsterdam 2025**
 
-"Mastering Test Automation Bliss with Robot Framework" - [Click to open the repository](https://github.com/ponchotitlan/CISCOU-1033_robot-test-auto)
+"Mastering Test Automation Bliss with Robot Framework" - [**Open repository ↗**](https://github.com/ponchotitlan/CISCOU-1033_robot-test-auto) | [**Open recording ↗**](https://www.ciscolive.com/on-demand/on-demand-library.html?search=alfonso#/session/1740098400341001deHy)
 <br/>
 
-**[Cisco Live Amsterdam 2025](https://www.ciscolive.com/on-demand/on-demand-library.html?search=alfonso#/session/1740098441051001dhRt)**
+**Cisco Live Amsterdam 2025**
 
-"Embracing DevOps for my NSO Use Cases lifecycle" - [Click to open the repository](https://github.com/ponchotitlan/embracing-devops-nso-usecase-lifecycle)
+"Embracing DevOps for my NSO Use Cases lifecycle" - [**Open repository ↗**](https://github.com/ponchotitlan/embracing-devops-nso-usecase-lifecycle) | [**Open recording ↗**](https://www.ciscolive.com/on-demand/on-demand-library.html?search=alfonso#/session/1740098441051001dhRt)
 <br/>
 
-**[Cisco Live Amsterdam 2024](https://www.ciscolive.com/on-demand/on-demand-library.html?search=%22Alfonso%20Sandoval%20Rosas%22#/session/1707505612413001pTAA)**
+**Developer Days Automation 2023**
 
-"Embracing DevOps for my NSO Use Cases lifecycle"  - [Click to open the repository](https://github.com/ponchotitlan/NSO-DevOps-in-a-tin-can)
+"The quest for DevOps utopia in NSO Land - Tips & tricks for the ideal strategy"  - [**Open repository ↗**](https://github.com/ponchotitlan/NSO-DevOps-in-a-tin-can) | [**Open recording ↗**](https://www.youtube.com/watch?v=nnjzu57vI3g&t=634s&ab_channel=CiscoNSODeveloperHub)
 <br/>
 
-**[Developer Days Automation 2023](https://www.youtube.com/watch?v=nnjzu57vI3g&t=634s&ab_channel=CiscoNSODeveloperHub)**
+**Cisco Live Las Vegas 2022**
 
-"The quest for DevOps utopia in NSO Land - Tips & tricks for the ideal strategy"
+"“Hello! How can I help you today?” Conversational Experiences in our Contact Center with Google DialogFlow and the Power of Code"  - [**Open repository ↗**](https://github.com/ponchotitlan/ciscoCVP_googleDialogflow_dance) | [**Open recording ↗**](https://www.ciscolive.com/on-demand/on-demand-library.html?search=alfonso#/session/1675722411262001tQK7)
 <br/>
 
-**[Cisco Live Las Vegas 2022](https://www.ciscolive.com/on-demand/on-demand-library.html?search=alfonso#/session/1675722411262001tQK7)**
+**Developer Days Automation 2022**
 
-"“Hello! How can I help you today?” Conversational Experiences in our Contact Center with Google DialogFlow and the Power of Code"  - [Click to open the repository](https://github.com/ponchotitlan/ciscoCVP_googleDialogflow_dance)
+"Enhanced Compliance Reporting: A development journey"  - [**Open repository ↗**](https://github.com/ponchotitlan/nso-onthefly-template-generator) | [**Open recording ↗**](https://www.youtube.com/watch?v=0bWm1q6V0qM&ab_channel=CiscoNSODeveloperHub)
 <br/>
 
-**[Developer Days Automation 2022](https://www.youtube.com/watch?v=0bWm1q6V0qM&ab_channel=CiscoNSODeveloperHub)**
+**Cisco Community Talks (ES)**
 
-"Enhanced Compliance Reporting: A development journey"
+"DevNet en acción: Tips, temas claves y mejores prácticas"  - [**Open repository ↗**](https://github.com/ponchotitlan/devnet-webinar) | [**Open recording ↗**](https://community.cisco.com/t5/eventos-general/devnet-en-acci%C3%B3n-tips-temas-claves-y-mejores-pr%C3%A1cticas-cl-evento/ba-p/4310121?utm_campaign=cl-sp-devent-comienzo-mar2021&utm_medium=referral&utm_source=sm)
 <br/>
 
-**[Cisco Community Talks (ES)](https://community.cisco.com/t5/eventos-general/devnet-en-acci%C3%B3n-tips-temas-claves-y-mejores-pr%C3%A1cticas-cl-evento/ba-p/4310121?utm_campaign=cl-sp-devent-comienzo-mar2021&utm_medium=referral&utm_source=sm)**
+**Cisco DevNet Create 2020**
 
-"DevNet en acción: Tips, temas claves y mejores prácticas"
-<br/>
-
-**[Cisco DevNet Create 2020](https://www.youtube.com/watch?v=zHOUyR3kKrE&ab_channel=CiscoDevNet)**
-
-"Cisco Multi-Channel Campaign Manager: Innovating Our Customer Contact for Potential Markets"
+"Cisco Multi-Channel Campaign Manager: Innovating Our Customer Contact for Potential Markets" - [**Open recording ↗**](https://www.youtube.com/watch?v=zHOUyR3kKrE&ab_channel=CiscoDevNet)
 <br/>
 
 
