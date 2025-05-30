@@ -165,63 +165,63 @@ ITIL4 Foundation CPD
 
 ## Public Speaking
 ### 3rd-party events
-**[DevOpsPro Europe 2025](https://devopspro.lt/)**:
+**[DevOpsPro Europe 2025](https://devopspro.lt/)**
 
 "Taming your Data Networks with the Power of NetDevOps" - [Repository available](https://github.com/ponchotitlan/devopsproeu-netdevops-demo)
 <br/>
 
-**[WITCOM 2024 (ES)](https://github.com/ponchotitlan/witcom-2024-code-is-the-new-cli)**:
+**[WITCOM 2024 (ES)](https://github.com/ponchotitlan/witcom-2024-code-is-the-new-cli)**
 
 "Code is the new CLI. Network Programmability and beyond" - [Repository available](https://github.com/ponchotitlan/witcom-2024-code-is-the-new-cli)
 <br/>
 
-**[Open Source Summit Europe 2024](https://www.youtube.com/watch?v=qcl2sYVTo8M&list=PLbzoR-pLrL6rC7SpO7MJCZm22Qp5ns3p-&index=49&ab_channel=TheLinuxFoundation)**: 
+**[Open Source Summit Europe 2024](https://www.youtube.com/watch?v=qcl2sYVTo8M&list=PLbzoR-pLrL6rC7SpO7MJCZm22Qp5ns3p-&index=49&ab_channel=TheLinuxFoundation)**
 
 "Data Networks Neutrality with OpenConfig: Unveiling Challenges and Practical Insights" - [Repository available](https://github.com/ponchotitlan/oss-summit-OpenConfig-demo)
 <br/>
 
-**[DevOps Pro Europe 2024](https://devopspro.lt/devops-pro-europe-2024/)**:
+**[DevOps Pro Europe 2024](https://devopspro.lt/devops-pro-europe-2024/)**
 
 "Taming your Data Networks with the power of NetDevOps" - [Repository available](https://gitlab.com/ponchotitlan/netdevops-nso-demo)
 <br/>
 
 ### Cisco events
-**[Cisco Live Amsterdam 2025](https://www.ciscolive.com/on-demand/on-demand-library.html?search=alfonso#/session/1740098400341001deHy)**:
+**[Cisco Live Amsterdam 2025](https://www.ciscolive.com/on-demand/on-demand-library.html?search=alfonso#/session/1740098400341001deHy)**
 
 "Mastering Test Automation Bliss with Robot Framework" - [Repository available](https://github.com/ponchotitlan/CISCOU-1033_robot-test-auto)
 <br/>
 
-**[Cisco Live Amsterdam 2025](https://www.ciscolive.com/on-demand/on-demand-library.html?search=alfonso#/session/1740098441051001dhRt)**:
+**[Cisco Live Amsterdam 2025](https://www.ciscolive.com/on-demand/on-demand-library.html?search=alfonso#/session/1740098441051001dhRt)**
 
 "Embracing DevOps for my NSO Use Cases lifecycle" - [Repository available](https://github.com/ponchotitlan/embracing-devops-nso-usecase-lifecycle)
 <br/>
 
-**[Cisco Live Amsterdam 2024](https://www.ciscolive.com/on-demand/on-demand-library.html?search=%22Alfonso%20Sandoval%20Rosas%22#/session/1707505612413001pTAA)**:
+**[Cisco Live Amsterdam 2024](https://www.ciscolive.com/on-demand/on-demand-library.html?search=%22Alfonso%20Sandoval%20Rosas%22#/session/1707505612413001pTAA)**
 
 "Embracing DevOps for my NSO Use Cases lifecycle"  - [Repository available](https://github.com/ponchotitlan/NSO-DevOps-in-a-tin-can)
 <br/>
 
-**[Developer Days Automation 2023](https://www.youtube.com/watch?v=nnjzu57vI3g&t=634s&ab_channel=CiscoNSODeveloperHub)**:
+**[Developer Days Automation 2023](https://www.youtube.com/watch?v=nnjzu57vI3g&t=634s&ab_channel=CiscoNSODeveloperHub)**
 
 "The quest for DevOps utopia in NSO Land - Tips & tricks for the ideal strategy"
 <br/>
 
-**[Cisco Live Las Vegas 2022](https://www.ciscolive.com/on-demand/on-demand-library.html?search=alfonso#/session/1675722411262001tQK7)**:
+**[Cisco Live Las Vegas 2022](https://www.ciscolive.com/on-demand/on-demand-library.html?search=alfonso#/session/1675722411262001tQK7)**
 
 "“Hello! How can I help you today?” Conversational Experiences in our Contact Center with Google DialogFlow and the Power of Code"  - [Repository available](https://github.com/ponchotitlan/ciscoCVP_googleDialogflow_dance)
 <br/>
 
-**[Developer Days Automation 2022](https://www.youtube.com/watch?v=0bWm1q6V0qM&ab_channel=CiscoNSODeveloperHub)**:
+**[Developer Days Automation 2022](https://www.youtube.com/watch?v=0bWm1q6V0qM&ab_channel=CiscoNSODeveloperHub)**
 
 "Enhanced Compliance Reporting: A development journey"
 <br/>
 
-**[Cisco Community Talks (ES)](https://community.cisco.com/t5/eventos-general/devnet-en-acci%C3%B3n-tips-temas-claves-y-mejores-pr%C3%A1cticas-cl-evento/ba-p/4310121?utm_campaign=cl-sp-devent-comienzo-mar2021&utm_medium=referral&utm_source=sm)**:
+**[Cisco Community Talks (ES)](https://community.cisco.com/t5/eventos-general/devnet-en-acci%C3%B3n-tips-temas-claves-y-mejores-pr%C3%A1cticas-cl-evento/ba-p/4310121?utm_campaign=cl-sp-devent-comienzo-mar2021&utm_medium=referral&utm_source=sm)**
 
 "DevNet en acción: Tips, temas claves y mejores prácticas"
 <br/>
 
-**[Cisco DevNet Create 2020](https://www.youtube.com/watch?v=zHOUyR3kKrE&ab_channel=CiscoDevNet)**:
+**[Cisco DevNet Create 2020](https://www.youtube.com/watch?v=zHOUyR3kKrE&ab_channel=CiscoDevNet)**
 
 "Cisco Multi-Channel Campaign Manager: Innovating Our Customer Contact for Potential Markets"
 <br/>
@@ -229,12 +229,12 @@ ITIL4 Foundation CPD
 
 ### University events
 
-**[NOVA Universidade de Lisboa - Faculdade de Engenharia (PT)](https://github.com/ponchotitlan/NOVA_code_is_the_new_CLI):** 
+**[NOVA Universidade de Lisboa - Faculdade de Engenharia (PT)](https://github.com/ponchotitlan/NOVA_code_is_the_new_CLI)** 
 
 "Code is the new CLI" masterclass for the students of Computer Science & Telecom degrees
 <br/>
 
-**[IST - Instituto Técnico Superior de Lisboa (PT)](https://github.com/ponchotitlan/NOVA_code_is_the_new_CLI):** 
+**[IST - Instituto Técnico Superior de Lisboa (PT)](https://github.com/ponchotitlan/NOVA_code_is_the_new_CLI)** 
 
 "Code is the new CLI" masterclass for the students of Computer Science & Telecom degrees
 
