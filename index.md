@@ -117,7 +117,7 @@ _Technologies used:_ NodeJS, Cisco Contact Center Express
 __Instituto Politécnico Nacional, Mexico__
 B.Sc.Eng. Telematics.
 
-Thesis project: ["Videoconference System Based on WebRTC With Access to the PSTN (ES) ↗"](https://www.slideshare.net/slideshow/sistema-de-videoconferencia-basado-en-webrtc-con-acceso-a-la-pstn-56562444/56562444)
+Thesis project: [**Videoconference System Based on WebRTC With Access to the PSTN (ES) →**](https://www.sciencedirect.com/science/article/pii/S1571066116301141)
 
 `2014`
 __Universidad Politécnica de Madrid, Spain__
@@ -172,87 +172,86 @@ ITIL4 Foundation CPD
 ### 3rd-party events
 **DevOpsPro Europe 2025**
 
-"Taming your Data Networks with the Power of NetDevOps" - [**Open repository ↗**](https://github.com/ponchotitlan/devopsproeu-netdevops-demo)
-<br/>
+"Taming your Data Networks with the Power of NetDevOps" - [**Open repository →**](https://github.com/ponchotitlan/devopsproeu-netdevops-demo)
+<br/><br/>
 
 **WITCOM 2024 (ES)**
 
-"Code is the new CLI. Network Programmability and beyond" - [**Open repository ↗**](https://github.com/ponchotitlan/witcom-2024-code-is-the-new-cli)
-<br/>
+"Code is the new CLI. Network Programmability and beyond" - [**Open repository →**](https://github.com/ponchotitlan/witcom-2024-code-is-the-new-cli)
+<br/><br/>
 
 **Open Source Summit Europe 2024**
 
-"Data Networks Neutrality with OpenConfig: Unveiling Challenges and Practical Insights" - [**Open repository ↗**](https://github.com/ponchotitlan/oss-summit-OpenConfig-demo) | [**Open recording ↗**](https://www.youtube.com/watch?v=qcl2sYVTo8M&list=PLbzoR-pLrL6rC7SpO7MJCZm22Qp5ns3p-&index=49&ab_channel=TheLinuxFoundation)
-<br/>
+"Data Networks Neutrality with OpenConfig: Unveiling Challenges and Practical Insights" - [**Open repository →**](https://github.com/ponchotitlan/oss-summit-OpenConfig-demo) | [**Open recording →**](https://www.youtube.com/watch?v=qcl2sYVTo8M&list=PLbzoR-pLrL6rC7SpO7MJCZm22Qp5ns3p-&index=49&ab_channel=TheLinuxFoundation)
+<br/><br/>
 
 ### Cisco events
 **Cisco Live Amsterdam 2025**
 
-"Mastering Test Automation Bliss with Robot Framework" - [**Open repository ↗**](https://github.com/ponchotitlan/CISCOU-1033_robot-test-auto) | [**Open recording ↗**](https://www.ciscolive.com/on-demand/on-demand-library.html?search=alfonso#/session/1740098400341001deHy)
-<br/>
+"Mastering Test Automation Bliss with Robot Framework" - [**Open repository →**](https://github.com/ponchotitlan/CISCOU-1033_robot-test-auto) | [**Open recording →**](https://www.ciscolive.com/on-demand/on-demand-library.html?search=alfonso#/session/1740098400341001deHy)
+<br/><br/>
 
 **Cisco Live Amsterdam 2025**
 
-"Embracing DevOps for my NSO Use Cases lifecycle" - [**Open repository ↗**](https://github.com/ponchotitlan/embracing-devops-nso-usecase-lifecycle) | [**Open recording ↗**](https://www.ciscolive.com/on-demand/on-demand-library.html?search=alfonso#/session/1740098441051001dhRt)
-<br/>
+"Embracing DevOps for my NSO Use Cases lifecycle" - [**Open repository →**](https://github.com/ponchotitlan/embracing-devops-nso-usecase-lifecycle) | [**Open recording →**](https://www.ciscolive.com/on-demand/on-demand-library.html?search=alfonso#/session/1740098441051001dhRt)
+<br/><br/>
 
 **Developer Days Automation 2023**
 
-"The quest for DevOps utopia in NSO Land - Tips & tricks for the ideal strategy"  - [**Open repository ↗**](https://github.com/ponchotitlan/NSO-DevOps-in-a-tin-can) | [**Open recording ↗**](https://www.youtube.com/watch?v=nnjzu57vI3g&t=634s&ab_channel=CiscoNSODeveloperHub)
-<br/>
+"The quest for DevOps utopia in NSO Land - Tips & tricks for the ideal strategy"  - [**Open repository →**](https://github.com/ponchotitlan/NSO-DevOps-in-a-tin-can) | [**Open recording →**](https://www.youtube.com/watch?v=nnjzu57vI3g&t=634s&ab_channel=CiscoNSODeveloperHub)
+<br/><br/>
 
 **Cisco Live Las Vegas 2022**
 
-"“Hello! How can I help you today?” Conversational Experiences in our Contact Center with Google DialogFlow and the Power of Code"  - [**Open repository ↗**](https://github.com/ponchotitlan/ciscoCVP_googleDialogflow_dance) | [**Open recording ↗**](https://www.ciscolive.com/on-demand/on-demand-library.html?search=alfonso#/session/1675722411262001tQK7)
-<br/>
+"“Hello! How can I help you today?” Conversational Experiences in our Contact Center with Google DialogFlow and the Power of Code"  - [**Open repository →**](https://github.com/ponchotitlan/ciscoCVP_googleDialogflow_dance) | [**Open recording →**](https://www.ciscolive.com/on-demand/on-demand-library.html?search=alfonso#/session/1675722411262001tQK7)
+<br/><br/>
 
 **Developer Days Automation 2022**
 
-"Enhanced Compliance Reporting: A development journey"  - [**Open repository ↗**](https://github.com/ponchotitlan/nso-onthefly-template-generator) | [**Open recording ↗**](https://www.youtube.com/watch?v=0bWm1q6V0qM&ab_channel=CiscoNSODeveloperHub)
-<br/>
+"Enhanced Compliance Reporting: A development journey"  - [**Open repository →**](https://github.com/ponchotitlan/nso-onthefly-template-generator) | [**Open recording →**](https://www.youtube.com/watch?v=0bWm1q6V0qM&ab_channel=CiscoNSODeveloperHub)
+<br/><br/>
 
 **Cisco Community Talks (ES)**
 
-"DevNet en acción: Tips, temas claves y mejores prácticas"  - [**Open repository ↗**](https://github.com/ponchotitlan/devnet-webinar) | [**Open recording ↗**](https://community.cisco.com/t5/eventos-general/devnet-en-acci%C3%B3n-tips-temas-claves-y-mejores-pr%C3%A1cticas-cl-evento/ba-p/4310121?utm_campaign=cl-sp-devent-comienzo-mar2021&utm_medium=referral&utm_source=sm)
-<br/>
+"DevNet en acción: Tips, temas claves y mejores prácticas"  - [**Open repository →**](https://github.com/ponchotitlan/devnet-webinar) | [**Open recording →**](https://community.cisco.com/t5/eventos-general/devnet-en-acci%C3%B3n-tips-temas-claves-y-mejores-pr%C3%A1cticas-cl-evento/ba-p/4310121?utm_campaign=cl-sp-devent-comienzo-mar2021&utm_medium=referral&utm_source=sm)
+<br/><br/>
 
 **Cisco DevNet Create 2020**
 
-"Cisco Multi-Channel Campaign Manager: Innovating Our Customer Contact for Potential Markets" - [**Open recording ↗**](https://www.youtube.com/watch?v=zHOUyR3kKrE&ab_channel=CiscoDevNet)
-<br/>
+"Cisco Multi-Channel Campaign Manager: Innovating Our Customer Contact for Potential Markets" - [**Open recording →**](https://www.youtube.com/watch?v=zHOUyR3kKrE&ab_channel=CiscoDevNet)
+<br/><br/>
 
 
 ### University events
 
 **NOVA Universidade de Lisboa - Faculdade de Engenharia (PT)** 
 
-"Code is the new CLI" masterclass for the students of Computer Science & Telecom degrees - [**Open repository ↗**](https://github.com/ponchotitlan/NOVA_code_is_the_new_CLI)
-<br/>
+"Code is the new CLI" masterclass for the students of Computer Science & Telecom degrees - [**Open repository →**](https://github.com/ponchotitlan/NOVA_code_is_the_new_CLI)
+<br/><br/>
 
 **IST - Instituto Técnico Superior de Lisboa (PT)** 
 
-"Code is the new CLI" masterclass for the students of Computer Science & Telecom degrees - [**Open repository ↗**](https://github.com/ponchotitlan/NOVA_code_is_the_new_CLI)
+"Code is the new CLI" masterclass for the students of Computer Science & Telecom degrees - [**Open repository →**](https://github.com/ponchotitlan/NOVA_code_is_the_new_CLI)
 
 
-## Publications & blog posts
-**[Watch Network Automation Session Recordings from Cisco Live ↗](https://blogs.cisco.com/developer/clusnetworkautomationsessions01)** - Cisco Blog
-<br/>
-**[Becoming a Cisco Expat: Mexico City to Lisbon ↗](https://blogs.cisco.com/wearecisco/becoming-a-cisco-expat-mexico-city-to-lisbon)** - #WeAreCisco Blog
-<br/>
-**[Cisco Mexico Lets Their Passions Shine ↗](https://blogs.cisco.com/wearecisco/cisco-mexico-lets-their-passions-shine)** - #WeAreCisco Blog
-<br/>
-**[Electronic Notes in Theoretical Computer Science ↗](https://www.sciencedirect.com/science/article/pii/S1571066116301141):** "Videoconference System Based on WebRTC With Access to the PSTN (University Thesis project)"
+## Blog posts
+**[Watch Network Automation Session Recordings from Cisco Live →](https://blogs.cisco.com/developer/clusnetworkautomationsessions01)** - Cisco Blog
+<br/><br/>
+**[Becoming a Cisco Expat: Mexico City to Lisbon →](https://blogs.cisco.com/wearecisco/becoming-a-cisco-expat-mexico-city-to-lisbon)** - #WeAreCisco Blog
+<br/><br/>
+**[Cisco Mexico Lets Their Passions Shine →](https://blogs.cisco.com/wearecisco/cisco-mexico-lets-their-passions-shine)** - #WeAreCisco Blog
+<br/><br/>
 
 
 ## Internal initiatives & Clubs
 
-**[DevNet Excellence ↗](https://cisco.sharepoint.com/sites/CXLisbon/SitePages/devnet_excellence.aspx)** (Former Admin, Mentor and Trainer)
+**[DevNet Excellence →](https://cisco.sharepoint.com/sites/CXLisbon/SitePages/devnet_excellence.aspx)** (Former Admin, Mentor and Trainer)
 
-**[MXC Programming Club ↗](https://cisco.sharepoint.com/sites/mxc-programming-club?spStartSource=spappbar)** (Former Admin, Mentor and Trainer)
+**[MXC Programming Club →](https://cisco.sharepoint.com/sites/mxc-programming-club?spStartSource=spappbar)** (Former Admin, Mentor and Trainer)
 
-**[Mind the Gap sessions: Software Development 101 ↗](https://cisco.sharepoint.com/sites/ConnectedPortugal/Lists/Mind%20the%20Gap%20sessions/DispForm.aspx?ID=9&e=LOf3Ti)**
+**[Mind the Gap sessions: Software Development 101 →](https://cisco.sharepoint.com/sites/ConnectedPortugal/Lists/Mind%20the%20Gap%20sessions/DispForm.aspx?ID=9&e=LOf3Ti)**
 
-**[Mind the Gap sessions: NETCONF & YANG 101 ↗](https://cisco.sharepoint.com/sites/ConnectedPortugal/Lists/Mind%20the%20Gap%20sessions/DispForm.aspx?ID=36&e=AOwgi8)**
+**[Mind the Gap sessions: NETCONF & YANG 101 →](https://cisco.sharepoint.com/sites/ConnectedPortugal/Lists/Mind%20the%20Gap%20sessions/DispForm.aspx?ID=36&e=AOwgi8)**
 
 <!-- ### Footer
 
