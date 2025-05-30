@@ -165,6 +165,11 @@ ITIL4 Foundation CPD
 
 ## Public Speaking
 ### 3rd-party events
+**[DevOpsPro Europe 2025](https://devopspro.lt/)**:
+
+"Taming your Data Networks with the Power of NetDevOps" - [Repository available](https://github.com/ponchotitlan/devopsproeu-netdevops-demo)
+<br/>
+
 **[WITCOM 2024 (ES)](https://github.com/ponchotitlan/witcom-2024-code-is-the-new-cli)**:
 
 "Code is the new CLI. Network Programmability and beyond" - [Repository available](https://github.com/ponchotitlan/witcom-2024-code-is-the-new-cli)
