@@ -224,36 +224,36 @@ ITIL4 Foundation CPD
 
 ### University events
 
-**[NOVA Universidade de Lisboa - Faculdade de Engenharia (PT)](https://github.com/ponchotitlan/NOVA_code_is_the_new_CLI)** 
+**NOVA Universidade de Lisboa - Faculdade de Engenharia (PT)** 
 
-"Code is the new CLI" masterclass for the students of Computer Science & Telecom degrees
+"Code is the new CLI" masterclass for the students of Computer Science & Telecom degrees - [**Open repository ↗**](https://github.com/ponchotitlan/NOVA_code_is_the_new_CLI)
 <br/>
 
-**[IST - Instituto Técnico Superior de Lisboa (PT)](https://github.com/ponchotitlan/NOVA_code_is_the_new_CLI)** 
+**IST - Instituto Técnico Superior de Lisboa (PT)** 
 
-"Code is the new CLI" masterclass for the students of Computer Science & Telecom degrees
+"Code is the new CLI" masterclass for the students of Computer Science & Telecom degrees - [**Open repository ↗**](https://github.com/ponchotitlan/NOVA_code_is_the_new_CLI)
 
 
 ## Publications & blog posts
-**[Watch Network Automation Session Recordings from Cisco Live](https://blogs.cisco.com/developer/clusnetworkautomationsessions01)** - Cisco Blog
+**[Watch Network Automation Session Recordings from Cisco Live ↗](https://blogs.cisco.com/developer/clusnetworkautomationsessions01)** - Cisco Blog
 <br/>
-**[Becoming a Cisco Expat: Mexico City to Lisbon](https://blogs.cisco.com/wearecisco/becoming-a-cisco-expat-mexico-city-to-lisbon)** - #WeAreCisco Blog
+**[Becoming a Cisco Expat: Mexico City to Lisbon ↗](https://blogs.cisco.com/wearecisco/becoming-a-cisco-expat-mexico-city-to-lisbon)** - #WeAreCisco Blog
 <br/>
-**[Cisco Mexico Lets Their Passions Shine](https://blogs.cisco.com/wearecisco/cisco-mexico-lets-their-passions-shine)** - #WeAreCisco Blog
+**[Cisco Mexico Lets Their Passions Shine ↗](https://blogs.cisco.com/wearecisco/cisco-mexico-lets-their-passions-shine)** - #WeAreCisco Blog
 <br/>
-**[Electronic Notes in Theoretical Computer Science](https://www.sciencedirect.com/science/article/pii/S1571066116301141):** "Videoconference System Based on WebRTC With Access to the PSTN (University Thesis project)"
+**[Electronic Notes in Theoretical Computer Science ↗](https://www.sciencedirect.com/science/article/pii/S1571066116301141):** "Videoconference System Based on WebRTC With Access to the PSTN (University Thesis project)"
 
 
-## Internal initiatives
+## Internal initiatives & Clubs
 
-**[DevNet Excellence](https://cisco.sharepoint.com/sites/CXLisbon/SitePages/devnet_excellence.aspx)** (Former Admin, Mentor and Trainer)
+**[DevNet Excellence ↗](https://cisco.sharepoint.com/sites/CXLisbon/SitePages/devnet_excellence.aspx)** (Former Admin, Mentor and Trainer)
 
-**[MXC Programming Club](https://cisco.sharepoint.com/sites/mxc-programming-club?spStartSource=spappbar)** (Former Admin, Mentor and Trainer)
+**[MXC Programming Club ↗](https://cisco.sharepoint.com/sites/mxc-programming-club?spStartSource=spappbar)** (Former Admin, Mentor and Trainer)
 
-**[Mind the Gap sessions: Software Development 101](https://cisco.sharepoint.com/sites/ConnectedPortugal/Lists/Mind%20the%20Gap%20sessions/DispForm.aspx?ID=9&e=LOf3Ti)**
+**[Mind the Gap sessions: Software Development 101 ↗](https://cisco.sharepoint.com/sites/ConnectedPortugal/Lists/Mind%20the%20Gap%20sessions/DispForm.aspx?ID=9&e=LOf3Ti)**
 
-**[Mind the Gap sessions: NETCONF & YANG 101](https://cisco.sharepoint.com/sites/ConnectedPortugal/Lists/Mind%20the%20Gap%20sessions/DispForm.aspx?ID=36&e=AOwgi8)**
+**[Mind the Gap sessions: NETCONF & YANG 101 ↗](https://cisco.sharepoint.com/sites/ConnectedPortugal/Lists/Mind%20the%20Gap%20sessions/DispForm.aspx?ID=36&e=AOwgi8)**
 
 <!-- ### Footer
 
-Last updated: April 2025 -->
+Last updated: May 2025 -->
