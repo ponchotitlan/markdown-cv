@@ -170,6 +170,24 @@ ITIL4 Foundation CPD
 
 ## Public Speaking
 ### 3rd-party events
+**Nerdearla 2025**
+
+"Redes Pythonicas: Automatizando Redes de Datos con Python y Estándares Abiertos" - [**Open repository →**](https://github.com/ponchotitlan/network_automation_journey_101)
+<br/><br/>
+
+**DevTalks Romania 2025**
+
+"Beyond the Console: NetDevOps Strategies for Modern Data Networks" - [**Open repository →**](https://github.com/ponchotitlan/devopsproeu-netdevops-demo)
+<br/>
+
+"Push, Commit, Deploy – And the Router Obeys! Network Automation 101" - [**Open repository →**](https://github.com/ponchotitlan/network_automation_journey_101)
+<br/><br/>
+
+**Birmingham Tech Week 2025**
+
+"Taming your Data Networks with the Power of NetDevOps" - [**Open repository →**](https://github.com/ponchotitlan/devopsproeu-netdevops-demo)
+<br/><br/>
+
 **DevOpsPro Europe 2025**
 
 "Taming your Data Networks with the Power of NetDevOps" - [**Open repository →**](https://github.com/ponchotitlan/devopsproeu-netdevops-demo)
