@@ -31,7 +31,41 @@ Developer Advocacy at public events
 
 ## Professional experience
 
-`2021 - now`
+`2025 - now`
+__Cisco Systems__, Lisbon
+
+**Developer Advocate - Cisco DevNet**
+
+Lead community engagement for the Cisco DevNet suite of programmability products, creating developer-focused content, open-source projects, technical journeys, and community engagements around network programmability and automation.
+
+Relevant projects:
+<br/><br/>
+
+_1) Cisco RADKit programmability_
+
+Created the official [**Cisco RADKit GitHub organization →**](https://github.com/Cisco-RADKit), Developer Journey, and open-source use cases to help developers explore and extend Cisco RADKit programmability.
+
+<br/><br/>
+
+_2) Hack the RADKit!_
+
+Created a video series and public code repositories showcasing hands-on ways to extend existing Cisco RADKit deployments through code tweaks, practical integrations, and creative use cases. [**Watch the series →**](https://www.youtube.com/watch?v=lsj05owx2Q0)
+
+<br/><br/>
+
+_3) Month of Smart Connections_
+
+Created a February video series and corresponding public code repositories focused on multi-vendor network automation and interoperability. Released a new episode every Thursday, using the theme of harmony between different device vendors. [**Watch the series →**](https://www.youtube.com/watch?v=YCMW6qSJiD0)
+
+<br/><br/>
+
+_4) NetBox community engagement_
+
+Engaged with the NetBox community through Community Calls, showcasing integration projects and practical approaches to connecting network automation ecosystems.
+
+<br/><br/><br/><br/>
+
+`2021 - 2025`
 __Cisco Systems__, Lisbon
 
 **Senior Software Consulting Engineer - SAO (Software & Orchestration)**
@@ -193,6 +227,21 @@ ITIL4 Foundation CPD
 "Taming your Data Networks with the Power of NetDevOps" - [**Open repository →**](https://github.com/ponchotitlan/devopsproeu-netdevops-demo)
 <br/><br/>
 
+**OpenSouthCode 2026**
+
+"De la Torre de Babel al Internet de Agentes: el proyecto open-source AGNTCY" - [**Open repository →**](https://github.com/ponchotitlan/packet-panic-agntcy)
+<br/><br/>
+
+**Commit Conf 2026**
+
+"Menos CLI, más IA: diseñando agentes low-code para operar tu red de datos" - [**Open session →**](https://cs.co/9004BEdGUp)
+<br/><br/>
+
+**WeAreDevelopers 2026**
+
+"Your Infrastructure Is Not a Playground: AI Agents for Infra Done Right." - [**Open session →**](https://cs.co/6044BEHb24)
+<br/><br/>
+
 **WITCOM 2024 (ES)**
 
 "Code is the new CLI. Network Programmability and beyond" - [**Open repository →**](https://github.com/ponchotitlan/witcom-2024-code-is-the-new-cli)
@@ -273,4 +322,4 @@ ITIL4 Foundation CPD
 
 <!-- ### Footer
 
-Last updated: May 2025 -->
+Last updated: August 2026 -->
